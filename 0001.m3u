@@ -25,3 +25,9 @@ http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/506
 http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/508
 #EXTINF:-1 tvg-ID="ext" tvg-name="VERONICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Veronica-Logo.svg/1280px-Veronica-Logo.svg.png" group-title="Nederland",VERONICA
 http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/507
+#EXTINF:-1 tvg-ID="" tvg-name="Bullet Train " tvg-logo="https://www.themoviedb.org/t/p/original/4hTDE4IXg3Z3qtCvahnDktyG9Gj.png" group-title="Films - Engels",Bullet Train 
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/249626.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Star Trek: The Motion Picture" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Star_Trek_The_Motion_Picture_poster.png" group-title="Films - Engels",Star Trek: The Motion Picture
+http://181.215.178.135:80/movie/kytv/tU7MJd6Zrb/8269.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Top Gun Maverick " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Top_Gun_Maverick_logo.png" group-title="Films - Engels",Top Gun Maverick 
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/249648.mkv
