@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="ext" tvg-name="NPO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/NPO_1_logo_2014.png" group-title="Nederland",NPO 1
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/496
+#EXTINF:-1 tvg-ID="ext" tvg-name="NPO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1200px-NPO_2_logo_2014.svg.png" group-title="Nederland",NPO 2
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/497
+#EXTINF:-1 tvg-ID="ext" tvg-name="NPO 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/475px-NPO_3_logo_2014.svg.png" group-title="Nederland",NPO 3
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/498
+#EXTINF:-1 tvg-ID="" tvg-name="RTL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL4_Logo_2016.png" group-title="Nederland",RTL 4
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/501
