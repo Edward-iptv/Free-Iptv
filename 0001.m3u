@@ -5,5 +5,23 @@ http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/496
 http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/497
 #EXTINF:-1 tvg-ID="ext" tvg-name="NPO 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/475px-NPO_3_logo_2014.svg.png" group-title="Nederland",NPO 3
 http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/498
-#EXTINF:-1 tvg-ID="" tvg-name="RTL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL4_Logo_2016.png" group-title="Nederland",RTL 4
+#EXTINF:-1 tvg-ID="ext" tvg-name="RTL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL4_Logo_2016.png" group-title="Nederland",RTL 4
 http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/501
+#EXTINF:-1 tvg-ID="ext" tvg-name="RTL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Rtl_5_logo_2017.png" group-title="Nederland",RTL 5
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/502
+#EXTINF:-1 tvg-ID="ext" tvg-name="RTL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/RTL_7_nl_Logo.svg/1280px-RTL_7_nl_Logo.svg.png" group-title="Nederland",RTL 7
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/503
+#EXTINF:-1 tvg-ID="ext" tvg-name="RTL 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/RTL_8_logo_2012.png" group-title="Nederland",RTL 8
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/504
+#EXTINF:-1 tvg-ID="ext" tvg-name="RTL LOUNGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/RTL_Lounge_Logo.svg/1200px-RTL_Lounge_Logo.svg.png" group-title="Nederland",RTL LOUNGE
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/531
+#EXTINF:-1 tvg-ID="ext" tvg-name="RTL Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/RTL_Z_logo_2015.png" group-title="Nederland",RTL Z
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/1166
+#EXTINF:-1 tvg-ID="ext" tvg-name="SBS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/SBS6-logo-2018.png/800px-SBS6-logo-2018.png" group-title="Nederland",SBS 6
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/505
+#EXTINF:-1 tvg-ID="ext" tvg-name="SBS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/SBS9_2018.png" group-title="Nederland",SBS 9
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/506
+#EXTINF:-1 tvg-ID="ext" tvg-name="NET 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Net5-2019.png" group-title="Nederland",NET 5
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/508
+#EXTINF:-1 tvg-ID="ext" tvg-name="VERONICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Veronica-Logo.svg/1280px-Veronica-Logo.svg.png" group-title="Nederland",VERONICA
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/507
