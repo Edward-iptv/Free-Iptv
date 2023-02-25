@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="ext" tvg-name="NPO 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/NPO_1_logo_2014.png" group-title="Nederland",NPO 1
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/496
+#EXTINF:-1 tvg-ID="ext" tvg-name="NPO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1200px-NPO_2_logo_2014.svg.png" group-title="Nederland",NPO 2
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/497
+#EXTINF:-1 tvg-ID="ext" tvg-name="NPO 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/475px-NPO_3_logo_2014.svg.png" group-title="Nederland",NPO 3
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/498
+#EXTINF:-1 tvg-ID="ext" tvg-name="RTL 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL4_Logo_2016.png" group-title="Nederland",RTL 4
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/501
+#EXTINF:-1 tvg-ID="ext" tvg-name="RTL 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Rtl_5_logo_2017.png" group-title="Nederland",RTL 5
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/502
+#EXTINF:-1 tvg-ID="ext" tvg-name="RTL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/RTL_7_nl_Logo.svg/1280px-RTL_7_nl_Logo.svg.png" group-title="Nederland",RTL 7
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/503
+#EXTINF:-1 tvg-ID="ext" tvg-name="RTL 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/RTL_8_logo_2012.png" group-title="Nederland",RTL 8
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/504
+#EXTINF:-1 tvg-ID="ext" tvg-name="RTL LOUNGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/RTL_Lounge_Logo.svg/1200px-RTL_Lounge_Logo.svg.png" group-title="Nederland",RTL LOUNGE
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/531
+#EXTINF:-1 tvg-ID="ext" tvg-name="RTL Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/RTL_Z_logo_2015.png" group-title="Nederland",RTL Z
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/1166
+#EXTINF:-1 tvg-ID="ext" tvg-name="SBS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/SBS6-logo-2018.png/800px-SBS6-logo-2018.png" group-title="Nederland",SBS 6
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/505
+#EXTINF:-1 tvg-ID="ext" tvg-name="SBS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/SBS9_2018.png" group-title="Nederland",SBS 9
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/506
+#EXTINF:-1 tvg-ID="ext" tvg-name="NET 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Net5-2019.png" group-title="Nederland",NET 5
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/508
+#EXTINF:-1 tvg-ID="ext" tvg-name="VERONICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Veronica-Logo.svg/1280px-Veronica-Logo.svg.png" group-title="Nederland",VERONICA
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/507
+#EXTINF:-1 tvg-ID="ext" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Nederland Cultuur",Animal Planet
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/527
+#EXTINF:-1 tvg-ID="ext" tvg-name="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Nederland Cultuur",Discovery Channel
+http://x-media.tv:8880/usman.mirza008/UB5KE1ZOMh/523
+#EXTINF:-1 tvg-ID="" tvg-name="Bullet Train " tvg-logo="https://www.themoviedb.org/t/p/original/4hTDE4IXg3Z3qtCvahnDktyG9Gj.png" group-title="Films - Engels",Bullet Train 
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/249626.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Star Trek: The Motion Picture" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Star_Trek_The_Motion_Picture_poster.png" group-title="Films - Engels",Star Trek: The Motion Picture
+http://181.215.178.135:80/movie/kytv/tU7MJd6Zrb/8269.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Star Trek II: The Wrath of Khan" tvg-logo="https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/2491/StarTrekIIWrathOfKhan.jpg" group-title="Films - Engels",Star Trek II: The Wrath of Khan
+http://181.215.178.135:80/movie/kytv/tU7MJd6Zrb/7851.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Star Trek III: The Search for Spock" tvg-logo="https://vhscollector.com/sites/default/files/vhsimages/35355_star-trek-iii-search-spock-beta-1-29034.png" group-title="Films - Engels",Star Trek III: The Search for Spock
+http://181.215.178.135:80/movie/kytv/tU7MJd6Zrb/8180.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Top Gun Maverick " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Top_Gun_Maverick_logo.png" group-title="Films - Engels",Top Gun Maverick 
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/249648.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Star Trek: Discovery  S01 E02" tvg-logo="https://w7.pngwing.com/pngs/891/851/png-transparent-star-trek-discovery-season-1-television-show-trekkie-star-trek-miscellaneous-television-emblem.png" group-title="Series - Engels",Star Trek: Discovery  S01 E02
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/236654.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Supergirl  S01 E01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Supergirl_%28CBS%29_Season_1_poster.png" group-title="Series - Engels",Supergirl  S01 E01
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/231518.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Supergirl  S01 E02" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/Supergirl_%28CBS%29_Season_1_poster.png" group-title="Series - Engels",Supergirl  S01 E02
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/231517.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Modern Family  S01 E02" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Modern_Family_Season_Two_DVD_Cover.png/250px-Modern_Family_Season_Two_DVD_Cover.png" group-title="Series - Engels",Modern Family  S01 E02
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/231741.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Star Trek: Discovery  S01 E01" tvg-logo="https://w7.pngwing.com/pngs/891/851/png-transparent-star-trek-discovery-season-1-television-show-trekkie-star-trek-miscellaneous-television-emblem.png" group-title="Series - Duits",Star Trek: Discovery  S01 E01
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/236655.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Modern Family  S01 E01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Modern_Family_Season_Two_DVD_Cover.png/250px-Modern_Family_Season_Two_DVD_Cover.png" group-title="Series - Duits",Modern Family  S01 E01
+http://c.proserver.in:8080/series/vodstest/lw5p6ojDQq/231742.mkv
